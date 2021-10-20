@@ -1,3 +1,3 @@
 # rockets-club
-## My first react native app.
+## My first react native app with Expo.
 
