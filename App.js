@@ -1,15 +1,11 @@
 import React from 'react';
-import { StyleSheet, Text, View, StatusBar } from 'react-native';
+import { StyleSheet, Text, View } from 'react-native';
 
 export default function App() {
   return (
     <View style={styles.container}>
-      <StatusBar hidden={true}/>
       <View>
-
-      </View>
-      <View>
-        
+        <Text>Aqui vai nosso App</Text>
       </View>
     </View>
   );
@@ -18,7 +14,7 @@ export default function App() {
 const styles = StyleSheet.create({
   container: {
     flex: 1,
-    backgroundColor: '#fff',
+    backgroundColor: '#333733',
     alignItems: 'center',
     justifyContent: 'center',
   },
