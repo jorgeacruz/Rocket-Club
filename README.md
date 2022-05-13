@@ -5,8 +5,13 @@
 </br>
 
 ## Figma UI/UX
-https://www.figma.com/file/WMuekTvnRYZqgI49wPXcDZ/Rocket-Club?node-id=0%3A1
+https://bityli.com/usGOKN
 ## Libraries
+- React Native Navigation
+- React Native Bottom Tabs Navigation
+
+## For more information, read documentation.</br>
+https://bityli.com/RrpgLu
 
 
 
